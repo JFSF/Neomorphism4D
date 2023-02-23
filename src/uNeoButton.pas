@@ -17,7 +17,8 @@ uses
   Vcl.StdCtrls,
   Vcl.ExtCtrls,
   Vcl.ImgList,
-  Vcl.Buttons;
+  Vcl.Buttons,
+  uNeoCtrls;
 
 type
   TNeoButtonShape = ( btnshpRect, btnshpRndRect );

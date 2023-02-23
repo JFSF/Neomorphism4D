@@ -140,6 +140,8 @@
         </DelphiCompile>
         <DCCReference Include="rtl.dcp"/>
         <DCCReference Include="src\uNeoButton.pas"/>
+        <DCCReference Include="src\uNeoCtrls.pas"/>
+        <DCCReference Include="src\uNeoDrawUtils.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

@@ -31,6 +31,8 @@ requires
   rtl;
 
 contains
-  uNeoButton in 'src\uNeoButton.pas';
+  uNeoButton in 'src\uNeoButton.pas',
+  uNeoCtrls in 'src\uNeoCtrls.pas',
+  uNeoDrawUtils in 'src\uNeoDrawUtils.pas';
 
 end.
